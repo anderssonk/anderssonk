@@ -2,7 +2,7 @@
 
 **I'm a full-stack (front-end focused)  engineer and web designer.**
 
-I'm pursuing my M.Sc. "Interactive Media Technology" in Computer Science at KTH Royal Institute of Technology. My curiosity and thirst for knowledge are quenched by working as a junior software engineer on the side. 
+Pursuing my M.Sc. "Interactive Media Technology" in Computer Science at KTH Royal Institute of Technology. My curiosity and thirst for knowledge are quenched by working as a junior software engineer on the side. 
 
 Technologies I work with mostly atm include e.g. _JavaScript, TypeScript, ReactJS_ and _NodeJS_. 
 
