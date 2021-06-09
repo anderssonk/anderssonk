@@ -1,12 +1,12 @@
-# Hi there, I'm Kristina 👋 
+### Hi there, I'm Kristina 👋 
 
-**I'm a full-stack (front-end focused)  engineer and web designer.**
+**I'm a full-stack, front-end focused engineer and web designer.**
 
 Pursuing my M.Sc. "Interactive Media Technology" in Computer Science at KTH Royal Institute of Technology. My curiosity and thirst for knowledge are quenched by working as a junior software engineer on the side. 
 
-Technologies I work with mostly atm include e.g. _JavaScript, TypeScript, ReactJS_ and _NodeJS_. 
+Technologies I work with mostly atm include e.g. _JavaScript, TypeScript, Angular, ReactJS_ and _NodeJS_. 
 
-## Say hi! 💬
+#### Say hi! 💬
 * LinkedIn: [linkedin.com/in/kristina-andersson](https://www.linkedin.com/in/kristina-andersson)
 * E-mail: [kristina-andersson@outlook.com](mailto:kristina-andersson@outlook.com)
 
