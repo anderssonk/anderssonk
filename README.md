@@ -4,7 +4,7 @@ Pursuing my M.Sc. "Interactive Media Technology" in Computer Science at KTH Roya
 
 
 #### Tech that I work w/ atm 💻
-JavaScript | TypeScript | Angular | ReactJS | NodeJS | Express. 
+JavaScript | TypeScript | Angular | ReactJS | NodeJS 
 
 #### Say hi! 💬
 * LinkedIn: [linkedin.com/in/kristina-andersson](https://www.linkedin.com/in/kristina-andersson)
