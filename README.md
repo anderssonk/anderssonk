@@ -1,6 +1,6 @@
 ### Hi there, I'm Kristina!
 
-Pursuing my M.Sc. "Interactive Media Technology" in Computer Science at KTH Royal Institute of Technology. My curiosity and thirst for knowledge are quenched by working as a junior software engineer on the side. 
+Atm, I'm my M.Sc. "Interactive Media Technology" in Computer Science at KTH Royal Institute of Technology. My curiosity and thirst for knowledge are quenched by working as a junior software engineer on the side. 
 
 
 #### Tech that I work w/ atm 💻
