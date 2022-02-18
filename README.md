@@ -1,13 +1,11 @@
-### Hi there, I'm Kristina!
+#### Hi there, I'm Kristina!
+Pursuing my M.Sc. in _Interactive Media Technology and Computer Science_ at KTH Royal Institute of Technology. My curiosity and thirst for knowledge are quenched by working as a web dev on the side. 
 
-Pursuing my M.Sc. in _Interactive Media Technology and Computer Science_ at KTH Royal Institute of Technology. My curiosity and thirst for knowledge are quenched by working as a junior software engineer on the side. 
-
-
-#### Tech that I work w/ atm 💻
-JavaScript | TypeScript | React.js | Angular.js | Node.js
+Tech that I work w/ atm: JavaScript, TypeScript, React.js, Angular.js, Node.js
 
 #### Say hi! 💬
-[LinkedIn](https://www.linkedin.com/in/kristina-andersson) | [E-mail](mailto:kristina-andersson@outlook.com)
+* [LinkedIn](https://www.linkedin.com/in/kristina-andersson)
+* [E-mail](mailto:kristina-andersson@outlook.com)
 
 <!--
 
