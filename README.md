@@ -1,6 +1,6 @@
 ### Hello ~~World~~ there, I'm Kristina!
 
-I'm a fullstack developer based in Stockholm, Sweden. I'm currently working as an IT consultant @ [Mpya Digital](https://mpyadigital.com/) where work is joy! :tada: 
+I'm a fullstack developer based in Stockholm, Sweden. I'm currently working as a consultant @ [Mpya Digital](https://mpyadigital.com/) where work is joy! :tada: 
 
 #### Say hi! :wave: 
 Reach out on 💬 [LinkedIn](https://www.linkedin.com/in/kristina-andersson) or send an e-mail 📫 [E-mail](mailto:kristina-andersson@outlook.com)
