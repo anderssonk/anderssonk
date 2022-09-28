@@ -1,11 +1,9 @@
-#### Hi there, I'm Kristina!
-Pursuing my M.Sc. in _Interactive Media Technology and Computer Science_ at KTH Royal Institute of Technology. My curiosity and thirst for knowledge are quenched by working as a web dev on the side. 
+### Hello ~~World~~ there, I'm Kristina!
 
-Tech that I work w/ atm: JavaScript, TypeScript, React.js, Angular.js, Node.js
+I'm a fullstack developer based in Stockholm, Sweden. I'm currently working as an IT consultant @ [Mpya Digital](https://mpyadigital.com/) where work is joy! :tada: 
 
-#### Say hi! 💬
-* [LinkedIn](https://www.linkedin.com/in/kristina-andersson)
-* [E-mail](mailto:kristina-andersson@outlook.com)
+#### Say hi! :wave: 
+Reach out on 💬 [LinkedIn](https://www.linkedin.com/in/kristina-andersson) or send an e-mail 📫 [E-mail](mailto:kristina-andersson@outlook.com)
 
 <!--
 
